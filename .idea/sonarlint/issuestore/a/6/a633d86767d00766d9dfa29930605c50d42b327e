@@ -1,0 +1,11 @@
+
+r
+java:S3655<"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ùªùçøÿÿÿÿ8ñß’ÿò1
+m
+java:S3655!"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÎÌâı8ôß’ÿò1
+m
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¶İ¶À8öß’ÿò1
+m
+java:S3655D"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¶İ¶À8÷ß’ÿò1
+n
+java:S6201™"PReplace this instanceof check and cast with 'instanceof UserDetails userDetails'(Âû†‹8„à’ÿò1

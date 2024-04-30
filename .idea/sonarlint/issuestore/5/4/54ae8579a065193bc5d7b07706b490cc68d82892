@@ -1,0 +1,14 @@
+
+”	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÚœ8Ãî€ÿò1J$33785bbf-f9ff-4e15-9508-05598d9464c1
+ª
+java:S1488Æ"fImmediately return this expression instead of assigning it to the temporary variable "updatedProject".(˜è£8Ïî€ÿò1J$d7b69889-88df-4ba2-83b5-aa77fa75115a
+©
+java:S1488ˆ"`Immediately return this expression instead of assigning it to the temporary variable "projects".(ÅìÇ«ÿÿÿÿÿ8Ïî€ÿò1J$0f280246-ef79-4da7-bb3c-eb015451e9c2
+“
+java:S6201^"PReplace this instanceof check and cast with 'instanceof UserDetails userDetails'(Âû†‹8ûî€ÿò1J$764a2d86-9a03-460c-86b4-c2cc22e5b586
+~	java:S125l"<This block of commented-out lines of code should be removed.(ÇÉ®ˆ8ıî€ÿò1J$c6f3aa33-ca93-4046-83d2-dcb37b75a532
+ƒ	java:S125p"<This block of commented-out lines of code should be removed.(…Ù³ùÿÿÿÿ8ıî€ÿò1J$d09ad649-9031-4b41-a60a-c3eb79e9c559
+~	java:S125t"<This block of commented-out lines of code should be removed.(”Í¡Ï8ıî€ÿò1J$8c90bccf-93d0-4cb3-9761-27b90e2a190f
+	java:S125Š"<This block of commented-out lines of code should be removed.(Ï’÷ò8ıî€ÿò1J$5349d4b0-c507-4b19-99d3-e20574dab6a6
+m	java:S106ñ"+Replace this use of System.out by a logger.(•²j8‰ï€ÿò1J$90723f2f-a951-43ad-80d8-7093235bc81b
+n	java:S106ò"+Replace this use of System.out by a logger.(«–¨†8Šï€ÿò1J$47952574-07b1-4ab6-952a-0aaa4c971e68

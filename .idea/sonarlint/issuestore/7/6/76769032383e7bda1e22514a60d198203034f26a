@@ -1,0 +1,14 @@
+
+g
+java:S1452"&Remove usage of generic wildcard type.(ÚÅÝ×ûÿÿÿÿJ$5f8e32b9-3a74-4a33-8ac9-48f9f432d065
+a
+java:S1452!"&Remove usage of generic wildcard type.(ˆö†J$e91e198c-f112-4b3c-97f9-62291627ff83
+b
+java:S1452+"&Remove usage of generic wildcard type.(®˜¤ŠJ$162befe8-ec76-4bba-9a0d-30df57d6b4e9
+|	java:S1255"<This block of commented-out lines of code should be removed.(¶°‰‡þÿÿÿÿJ$3f905df9-b396-452c-9264-fa8361b91a30
+|	java:S125@"<This block of commented-out lines of code should be removed.(¼þ¢ÌúÿÿÿÿJ$a8797e16-bacc-4772-a95b-a5a83770e24e
+w	java:S125M"<This block of commented-out lines of code should be removed.(ù„í³J$f8c7ee6f-5b1b-4b53-9590-b4b0d29bf7da
+”
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœžÿÿÿÿÿ8êÄÆ‡ó1J$cdda2dba-e8d4-4680-98b7-f6700897a6b1
+
+java:S1128"ERemove this unused import 'tn.esprit.pi.dto.responses.ImageResponse'.(ÙÄÅýÿÿÿÿ8ëÄÆ‡ó1J$c8f78ab1-86a2-42ac-96a5-82d6c3ccae68

@@ -1,0 +1,31 @@
+
+_
+java:S1192V"JDefine a constant instead of duplicating this literal "jwtCookie" 4 times.(¯¬ˆJ
+q
+java:S1192W"[Define a constant instead of duplicating this literal "/api/v1/auth/refresh_token" 3 times.(¢ê—î
+\
+java:S2184W"FCast one of the operands of this multiplication operation to a "long".(¢ê—î
+\
+java:S2184l"FCast one of the operands of this multiplication operation to a "long".(¢ê—î
+A
+java:S1452$"&Remove usage of generic wildcard type.(ÏÀ£¬ùÿÿÿÿ
+A
+java:S14521"&Remove usage of generic wildcard type.(–‰±Šþÿÿÿÿ
+7
+java:S11164"Remove this empty statement.(©­æðüÿÿÿÿ
+A
+java:S1452@"&Remove usage of generic wildcard type.(à´òÀþÿÿÿÿ
+<
+java:S1452N"&Remove usage of generic wildcard type.(È–æá
+c	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÐø“
+E	java:S106h"+Replace this use of System.out by a logger.(ô×¢›ýÿÿÿÿ
+A
+java:S1452y"&Remove usage of generic wildcard type.(•‹³‘ÿÿÿÿÿ
+B
+java:S1452"&Remove usage of generic wildcard type.(² œœøÿÿÿÿ
+B
+java:S1452š"&Remove usage of generic wildcard type.(ü±Î©ÿÿÿÿÿ
+B
+java:S1452¦"&Remove usage of generic wildcard type.(…Äþ°ûÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(ªº»Úýÿÿÿÿ

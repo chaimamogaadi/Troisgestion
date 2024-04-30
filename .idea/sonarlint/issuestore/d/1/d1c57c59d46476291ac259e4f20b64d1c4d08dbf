@@ -1,0 +1,21 @@
+
+å	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘’ı‰J$d24be897-0ecf-4c0b-b3db-24d61197e234
+†
+java:S14885"dImmediately return this expression instead of assigning it to the temporary variable "listProjects".(ßπÙJ$3d06a3e7-e2d9-48e9-bb6b-01a26033ea19
+†
+java:S1488<"_Immediately return this expression instead of assigning it to the temporary variable "project".(≈âí≥˙ˇˇˇˇJ$35888c92-e240-42f4-ae50-e01956a54440
+~	java:S125E"<This block of commented-out lines of code should be removed.(≠ù—˙8∑·í˛Ú1J$f1edc7a9-4337-4de1-961e-9e293258ee6b
+É	java:S125N"<This block of commented-out lines of code should be removed.(ˇó¿œ˙ˇˇˇˇ8∑·í˛Ú1J$b7d80cf0-be86-4423-8e5c-fa8f5c5e2974
+É	java:S125R"<This block of commented-out lines of code should be removed.(≠ç‰©ˇˇˇˇˇ8∑·í˛Ú1J$21b19051-0193-4747-be20-79808ebd5631
+Ç
+java:S1854a"?Remove this useless assignment to local variable "currentUser".( –≥ó8π·í˛Ú1J$5d44f8e6-93ba-48cc-9ee9-c3faecf87753
+s
+java:S1481a"0Remove this unused "currentUser" local variable.( –≥ó8ª·í˛Ú1J$34a04ab6-f115-4ba9-985f-a235a3af93a2
+Ç
+java:S1854l"?Remove this useless assignment to local variable "currentUser".( –≥ó8º·í˛Ú1J$a1ba7dd4-eeb5-459c-915f-b2ca8a82d7d5
+s
+java:S1481l"0Remove this unused "currentUser" local variable.( –≥ó8Ω·í˛Ú1J$b0d1022c-ded5-4420-bd0f-a0741522fd49
+f	java:S106É"+Replace this use of System.out by a logger.(ïù≤jJ$9b882134-57d5-4e05-9b31-a98d837fb090
+n	java:S106Ñ"+Replace this use of System.out by a logger.(´ñ®Ü8¡·í˛Ú1J$7116aecf-8d23-4d18-8cac-de9820c7a739
+
+java:S1144e"7Remove this unused private "getCurrentUserRole" method.(∂‘Ø•¯ˇˇˇˇ8«·í˛Ú1J$50d9fde4-d22d-4571-b865-7bd239df9faa
